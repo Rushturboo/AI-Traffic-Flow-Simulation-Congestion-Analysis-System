@@ -22,6 +22,15 @@ The system automatically generates vehicles, enables autopilot driving, collects
 
 ---
 
+## 📊 Results
+
+### Traffic Analysis
+![Traffic Analysis](traffic_analysis.png)
+
+### Simulation Scene
+![Simulation](Carla_Running.png)
+
+---
 ## 🧠 Methodology
 
 ### 1. Traffic Simulation
