@@ -22,16 +22,16 @@ The system automatically generates vehicles, enables autopilot driving, collects
 
 ---
 
-## 📊 Results
-
-### Traffic Analysis
-![Traffic Analysis](traffic_analysis.png)
-
 ## 🚗 Simulation Scene
 
 ![CARLA Traffic Simulation](SimulationScene.png)
 
 *Figure: Multi-vehicle autonomous traffic simulation in urban environment*
+
+## 📊 Results
+
+### Traffic Analysis
+![Traffic Analysis](traffic_analysis.png)
 
 ---
 ## 🧠 Methodology
