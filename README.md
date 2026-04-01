@@ -12,7 +12,7 @@ The system automatically generates vehicles, enables autopilot driving, collects
 
 ## 🎯 Features
 
-* 🚘 Spawn and simulate 30–100 autonomous vehicles
+* 🚘 Spawn and simulate 30–100 (depend on your device) autonomous vehicles
 * 🤖 Automatic driving using CARLA Traffic Manager
 * 📊 Real-time traffic data collection (speed, density)
 * 🚦 Congestion detection based on average speed
@@ -96,7 +96,7 @@ traffic_analysis.png
 
 ```text
 City_driving_flow_SIM_Carla.py   # Main simulation script
-traffic_metrics.csv              # Output data
+traffic_metrics.csv & traffic_data.csv              # Output data
 traffic_analysis.png             # Visualization results
 ```
 
