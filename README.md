@@ -136,7 +136,7 @@ python City_driving_flow_SIM_Carla.py
 
 ### 3. Output
 
-After simulation (~60 seconds), the system will:
+After simulation (~60 seconds, it depends on your computer), the system will:
 
 * Save traffic data to CSV
 * Generate visualization plots
